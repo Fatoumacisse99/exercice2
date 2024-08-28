@@ -1,0 +1,2 @@
+Tu es dans le contenu initila de File.txt donc fait attention a ce que tu doit ecrire ici;
+La Modification du fichier file1.txt en y ajoutant du nouveau contenu et en validant  les modifications avec un nouveau commit va sûrement entrainer des conflits 
