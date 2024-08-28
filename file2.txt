@@ -1,0 +1,1 @@
+La modification récente du fichier file1.txt pourrait causer des conflits lors de la fusion des branches. Il est important de résoudre ces conflits de manière appropriée pour garantir l'intégrité des données et la cohérence du projet. La gestion de ces conflits impliquera une révision attentive des modifications apportées dans chaque branche.
